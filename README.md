@@ -5,6 +5,7 @@
 - 📫 How to reach me dagimfikru@gmail.com
 <img src="https://github-readme-stats.vercel.app/api?username=Dagim-Fikru&show_icons=true"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Dagim-Fikru&layout=compact"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Dagim-Fikru"/>
 
 <!---
 Dagim-Fikru/Dagim-Fikru is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
