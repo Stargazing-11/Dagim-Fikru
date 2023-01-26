@@ -8,7 +8,7 @@
 
 ## ☎️ Connect with me section 
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/dagim-fikru-10396a226/) 
-[![](https://img.shields.io/badge/Gmail-1ED760?style=for-the-badge&logo=gmail&logoColor=white)](https://www.dagimfikru@gmail.com) 
+[![](https://img.shields.io/badge/Gmail-1ED760?style=for-the-badge&logo=gmail&logoColor=white)](https://www.dagimfikru@gmail.com/) 
 
 <!---
 Dagim-Fikru/Dagim-Fikru is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
